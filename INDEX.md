@@ -21,6 +21,7 @@ Welcome to the comprehensive HelpingAI Cookbook! This index helps you navigate a
 | **[02-chat-completions.ipynb](notebooks/basic/02-chat-completions.ipynb)** | Advanced chat patterns | Multi-turn, context management |
 | **[03-streaming.ipynb](notebooks/basic/03-streaming.ipynb)** | Real-time responses | Streaming, performance analysis |
 | **[04-parameters.ipynb](notebooks/basic/04-parameters.ipynb)** | Parameter optimization | Temperature, tokens, penalties |
+| **[05-toolcalling.ipynb](notebooks/basic/05-toolcalling.ipynb)** | Function and tool calling | External APIs, tool integration |
 
 ### Dhanishta 2.0 Notebooks
 | Notebook | Description | Key Features |
@@ -48,7 +49,8 @@ Welcome to the comprehensive HelpingAI Cookbook! This index helps you navigate a
 
 ### Intermediate Path
 1. **[Parameter Tuning](notebooks/basic/04-parameters.ipynb)** - Optimize responses
-2. **[Dhanishta 2.0 Thinking](notebooks/dhanishta-2.0/01-thinking-demo.ipynb)** - Advanced reasoning
+2. **[Tool Calling](notebooks/basic/05-toolcalling.ipynb)** - Function integration
+3. **[Dhanishta 2.0 Thinking](notebooks/dhanishta-2.0/01-thinking-demo.ipynb)** - Advanced reasoning
 
 ### Advanced Path
 1. **[Complex Reasoning](notebooks/dhanishta-2.0/02-complex-reasoning.ipynb)** - Advanced problems
@@ -65,13 +67,11 @@ Welcome to the comprehensive HelpingAI Cookbook! This index helps you navigate a
 - **[Email Support](mailto:varun@helpingai.co)** - Direct assistance
 
 ### Contributing
-- **[Contributing Guide](CONTRIBUTING.md)** - How to contribute
-- **[Code of Conduct](CODE_OF_CONDUCT.md)** - Community guidelines
-- **[Development Setup](DEVELOPMENT.md)** - Local development
+- **[GitHub Repository](https://github.com/helpingai/helpingai-python)** - Source code and contributions
+- **[Issues & Feature Requests](https://github.com/helpingai/helpingai-python/issues)** - Report bugs or suggest features
 
 
 ### Coming Soon
-- **Function Calling**: Tool integration capabilities
 - **Vision Models**: Image understanding and generation
 - **Voice Integration**: Speech-to-text and text-to-speech
 - **Advanced Analytics**: Detailed usage insights
